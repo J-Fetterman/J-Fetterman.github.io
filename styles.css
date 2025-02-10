@@ -1,11 +1,14 @@
 body {
 	background: rgb(66, 63, 62);
+	color:rgb(41, 134, 134);
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: rgb(197, 56, 56);
+	color: rgb(210, 1, 1);
 	text-align: center;
 }
-.about{
-    background: rgb(76, 76, 140);
+h2{
+	color: rgb(200, 25, 25);
+  
 }
+
