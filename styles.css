@@ -1,11 +1,11 @@
 body {
-	background: green;
+	background: rgb(66, 63, 62);
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: red;
+	color: rgb(197, 56, 56);
 	text-align: center;
 }
 .about{
-    background: blue;
+    background: rgb(76, 76, 140);
 }
